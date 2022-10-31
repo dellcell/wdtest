@@ -3,8 +3,8 @@ dos≥£”√√¸¡Ó
 2.more
 3.find
 4.mstsc
-5.
-6.
+5.echo
+6.xxx
 7.
 8.
 9.
